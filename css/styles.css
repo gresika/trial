@@ -117,7 +117,7 @@ p{font-size: 1.5rem;
 /* footer */
 
 .bottom-container{background-color: #34656d;
-                  padding: 50px 15px;}
+                  padding: 15px 15px;}
 
 .copyright{color: #EAF6F6;
 font-size: 0.8rem;
@@ -126,7 +126,6 @@ padding-top: 1.3%;}
 
 .footer-link{color: #fffbdf;
   font-family: "Montserrat";
-  margin:5px;
   font-size: 1rem;
   text-decoration: none;}
 
